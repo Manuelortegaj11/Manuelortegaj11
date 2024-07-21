@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/manu_101110" target="blank"><img src="https://img.shields.io/twitter/follow/manu_101110?logo=twitter&style=for-the-badge" alt="manu_101110" /></a> </p>
 
 - 💫 Also known as **Daztan**
-- 🌱 I’m currently learning **Backend with** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+- 🌱 I’m currently learning **Backend y Cloud with** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 
 - 🔭 I’m currently working on **University of Magdalena's QuesoCosteño project.**
 
