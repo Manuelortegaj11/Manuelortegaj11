@@ -8,7 +8,7 @@
 
 - 💫 Also known as **Daztan**
 
-- 🌱 I’m currently learning **Go** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> & **AWS**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+- 🌱 I’m currently learning **Backend with** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 
 - 🔭 I’m currently working on **University of Magdalena's QuesoCosteño project.**
 
